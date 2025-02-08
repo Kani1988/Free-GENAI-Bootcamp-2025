@@ -1,0 +1,38 @@
+# Prompt Document for ChatGPT
+# In this document, student will provide the sentence and documenting how CHATGPT is providing the results based on the prompt we are giving
+
+# INPUT - Student will provide the sentence
+# Learning Level - 1
+# Prompting Instructions. 
+1) Student will provide the Sentence in the English Language
+2) Provide the Vocabulary table 
+3) Highlight how to identify the Noun,verb,adverb etc. but without any definition
+4) Remove prepositions 
+5) Limit the explanation
+6) Provide if the noun has different words
+
+
+
+Input : My Friend came to my house 
+Output Provided: என் நண்பர் என் வீட்டுக்கு வந்தார்.
+
+### Translation:
+
+**என் நண்பர் என் வீட்டிற்கு வந்தார்.**  
+(En nanbar en veetirkku vandhaar.)
+
+### Vocabulary Table:
+
+| **English Word** | **Tamil Translation**  | **Part of Speech**  |
+|------------------|------------------------|---------------------|
+| My               | என் (En)               | Pronoun             |
+| Friend           | நண்பர் (Nanbar)         | Noun                |
+| Came             | வந்தார் (Vandhaar)       | Verb                |
+| My               | என் (En)               | Pronoun             |
+| House            | வீடு (Veetu)             | Noun                |
+
+### Explanation of Parts of Speech:
+
+- **Noun**: *Friend* (நண்பர் - Nanbar), *House* (வீடு - Veetu)
+- **Verb**: *Came* (வந்தார் - Vandhaar)
+- **Pronoun**: *My* (என் - En)
