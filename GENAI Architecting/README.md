@@ -6,10 +6,14 @@ The Sentence Constructor should be like an AI PC and the cost should be less tha
 The Sentence constructor should be able to provide the basic reading/writing knowledge to the students.
 The Student Progress should be tracked for the assessment results
 
-**#Assumptions**
+# Assumptions 
 The Open free LLMs will be sufficient to do this project.
 Minimium 2 open source AI will be used to achieve the results
 Maximum no of students accessing the Sentence constructor at a time will be  less than 200 students.
+
+# Data Strategy
+We are planning to use the open source training data from IBM Grantite
+https://huggingface.co/ibm-granite
 
 
 
